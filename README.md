@@ -1,0 +1,1 @@
+Copied from: https://mhdzaherghaibeh.name/2017/11/13/using-minio-server-for-simulate-s3-locally/
